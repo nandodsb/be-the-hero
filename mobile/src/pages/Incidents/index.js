@@ -3,20 +3,18 @@ import        { Feather                                       } from "@expo/vect
 import        { useNavigation                                 } from '@react-navigation/native' ;
 import        { TouchableOpacity ,View, Image, Text, FlatList } from "react-native"             ;
 
-import api from '../../services/api';
-
+import api     from '../../services/api'   ;
 import logoImg from '../../assets/logo.png';
-
-import styles from './styles';
+import styles  from './styles'             ;
 
 export default function Incidents() {
 
   const navigation = useNavigation();
 
-  const [incidents, setIncidents] = useState([]);
-  const [total, setTotal] = useState(0);
-  const [page, setPage] = useState(1);
-  const [loading,setLoading] = useState(false);
+  const [incidents, setIncidents] = useState([]   );
+  const [total    , setTotal    ] = useState(0    );
+  const [page     , setPage     ] = useState(1    );
+  const [loading  , setLoading  ] = useState(false);
   
 
   function navigateToDetail(incident) {
@@ -40,10 +38,10 @@ export default function Incidents() {
       params: { page }
     });
 
-    setIncidents([...incidents, ...response.data]);
-    setTotal(response.headers['x-total-count']);
-    setPage(page + 1);
-    setLoading(false);    
+    setIncidents([...incidents, ...response.data] );
+    setTotal    (response.headers['x-total-count']);
+    setPage     (page + 1                         );
+    setLoading  (false                            );    
   }
 
   useEffect(() => {
@@ -65,12 +63,12 @@ export default function Incidents() {
       <Text style={styles.description}>Escolha um dos casos abaixos e salve o dia.</Text>
 
       <FlatList       
-        data={incidents}
-        style={styles.incidentList}
-        keyExtractor={incident => String(incident.id)}
-        showsVerticalScrollIndicator={false}
-        onEndReached={loadIncidents}
-        onEndReachedThreshold={0.2}
+        data                        ={incidents                      }
+        style                       ={styles.incidentList            }
+        keyExtractor                ={incident => String(incident.id)}
+        showsVerticalScrollIndicator={false                          }
+        onEndReached                ={loadIncidents                  }
+        onEndReachedThreshold       ={0.2                            }
         renderItem={({ item: incident})=>(
           <View style={styles.incident}>
 
