@@ -16,7 +16,7 @@
 ------------
 <h2>🔖 Layout</h2>
 
-Acesse aqui o layout da ferramenta <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a>.
+Acesse aqui o layout da ferramenta no <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a>.
 
 ------------
 
