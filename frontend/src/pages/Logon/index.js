@@ -1,12 +1,12 @@
-import React, { useState } from 'react';
-import { Link, useHistory } from 'react-router-dom';
-import { FiLogIn } from 'react-icons/fi';
+import React, { useState             } from 'react'           ;
+import        { Link    , useHistory } from 'react-router-dom';
+import        { FiLogIn              } from 'react-icons/fi'  ;
 
 import api from '../../services/api';
 
 import './styles.css';
 
-import logoImg from '../../assets/logo.svg'
+import logoImg   from '../../assets/logo.svg'
 import heroesImg from '../../assets/heroes.png'
 
 export default function Logon() {
@@ -20,7 +20,7 @@ export default function Logon() {
     try {
       const response = await api.post('sessions', { id});
 
-      localStorage.setItem('ongId', id);
+      localStorage.setItem('ongId'  , id                );
       localStorage.setItem('ongName', response.data.name);
 
       history.push('/profile')

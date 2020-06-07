@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
-import { Link, useHistory } from 'react-router-dom';
-import { FiArrowLeft} from 'react-icons/fi';
+import React, { useState                } from 'react'           ;
+import        { Link       , useHistory } from 'react-router-dom';
+import        { FiArrowLeft             } from 'react-icons/fi'  ;
 
 import api from '../../services/api';
 
@@ -9,9 +9,9 @@ import './styles.css';
 import logoImg from '../../assets/logo.svg'
 
 export default function NewIncident() {
-  const [title, setTitle] = useState('');
+  const [title      , setTitle      ] = useState('');
   const [description, setDescription] = useState('');
-  const [value, setValue] = useState('');
+  const [value      , setValue      ] = useState('');
 
   const history = useHistory();
 
@@ -21,9 +21,9 @@ export default function NewIncident() {
     e.preventDefault();
     
     const data = {
-      title,
+      title      ,
       description,
-      value,
+      value      ,
 
     };
 

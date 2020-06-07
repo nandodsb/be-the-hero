@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
-import { Link, useHistory } from 'react-router-dom';
-import { FiArrowLeft} from 'react-icons/fi';
+import React, { useState                } from 'react'           ;
+import        { Link       , useHistory } from 'react-router-dom';
+import        { FiArrowLeft             } from 'react-icons/fi'  ;
 
 import api from '../../services/api';
 import './styles.css';
@@ -9,11 +9,11 @@ import logoImg from '../../assets/logo.svg'
 
 export default function Register() {
 
-  const [name, setName] = useState('');
-  const [email, setEmail] = useState('');
+  const [name    , setName    ] = useState('');
+  const [email   , setEmail   ] = useState('');
   const [whatsapp, setWhatsapp] = useState('');
-  const [city, setCity] = useState('');
-  const [uf, setUf] = useState('');
+  const [city    , setCity    ] = useState('');
+  const [uf      , setUf      ] = useState('');
 
   const history = useHistory();
 
