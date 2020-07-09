@@ -15,7 +15,7 @@
 
 <h2>📖 Sobre</h2>
 
- Projeto Be The Hero foi desenvolvido para conectar ONGs e outras instituções a pessoas disponíveis a ajudar o próximo.
+ Projeto Be The Hero foi desenvolvido para conectar ONGs e outras instituições a pessoas disponíveis a ajudar o próximo.
 
 ------------
 <h2>🔖 Layout</h2>
