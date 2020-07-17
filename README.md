@@ -3,12 +3,14 @@
 <img src="./.github/logo@3x.png"/>
 </p>
 
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/be-the-hero) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/be-the-hero) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/be-the-hero) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/be-the-hero) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/be-the-hero)
+
 <p align="center">
 <img src="./.github/bethehero.gif"/>
 </p>
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/be-the-hero) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/be-the-hero) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/be-the-hero) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/be-the-hero) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/be-the-hero)
+
 
 
   
@@ -72,7 +74,7 @@ A Semana Omnistack 11.0 foi ministrada pelo <a href="https://github.com/diego3g"
 
 <h2>📃Licença</h2>
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">Licença</a> e saiba mais.
+Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/be-the-hero/blob/master/LICENSE.md">Licença</a> e saiba mais.
 
 ------------
 
