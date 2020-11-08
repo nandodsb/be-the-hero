@@ -3,8 +3,13 @@
 <img src="./.github/logo@3x.png"/>
 </p>
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/be-the-hero) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/be-the-hero) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/be-the-hero) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/be-the-hero) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/be-the-hero)
+<div align="center">
+<img src="https://img.shields.io/badge/ROCKETSEAT-OMNISTACK 11.0-e02041?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-e02041?style=for-the-badge&logo=appveyor" />
+
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/be-the-hero?color=e02041&&style=flat-square&logo=appveyor) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/be-the-hero?color=e02041&&style=flat-square&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/be-the-hero?color=e02041&&style=flat-square&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/be-the-hero?color=e02041&&style=flat-square&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/be-the-hero?color=e02041&&style=flat-square&logo=appveyor)
+
+</div>
 
 <p align="center">
 <img src="./.github/bethehero.gif"/>
