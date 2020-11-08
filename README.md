@@ -15,20 +15,22 @@
 <img src="./.github/bethehero.gif"/>
 </p>
 
-<h2>📖 Sobre</h2>
+<h2>📖 About</h2>
 
- Projeto Be The Hero foi desenvolvido para conectar ONGs e outras instituições a pessoas disponíveis a ajudar o próximo.
+The Be The Hero project was developed to connect NGOs and other institutions to people available to help others.
 
 ------------
 <h2>🔖 Layout</h2>
 
-Acesse aqui o layout da ferramenta no <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a>.
+💻 Check the Web layout on <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a>.
+
+📱 &nbsp; Check the Mobile layout on <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A95">Figma</a>.
 
 ------------
 
-<h2>🚀 Tecnologias</h2>
+<h2>🚀 Tecnologies</h2>
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 - [NodeJs](https://nodejs.org/en/ "NodeJs")
 - [Express](https://expressjs.com/ "Express")
 - [Expo-Cli](https://expo.io/tools#cli "Expo-Cli")
@@ -39,7 +41,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ------------
 
 
-<h3>Dependências</h3>
+<h3>Dependencies</h3>
 
 - [Express](https://expressjs.com/ "Express")
 - [KnexJS](http://knexjs.org/ "KnexJS")
@@ -54,27 +56,27 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ------------
 
 
-<h2>♻️ Como Contribuir</h2>
+<h2>♻️ How to Contribute</h2>
 
-- Fork este repositório;
+- Fork this repository;
 
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Make a branch with your feature: `git checkout -b my-feature`
 
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Commit your changes: `git commit -m 'feat: My new feature'`
 
-- Push a sua branch: `git push origin my-feature`
-
-------------
-
-<h2>🎓 Quem ministrou?</h2>
-A Semana Omnistack 11.0 foi ministrada pelo <a href="https://github.com/diego3g">Diego Fernandes</a> da <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
+- Push your branch: `git push origin my-feature`
 
 ------------
 
+<h2>🎓 Developed by</h2>
+Be The Hero was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
 
-<h2>📃Licença</h2>
+------------
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/be-the-hero/blob/master/LICENSE.md">Licença</a> e saiba mais.
+
+<h2>📃License</h2>
+
+This project is under MIT License. Access  <a href="https://github.com/Nandosbx/be-the-hero/blob/master/LICENSE.md">Licença</a> and learn more.
 
 ------------
 
