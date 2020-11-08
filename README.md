@@ -20,6 +20,7 @@
 The Be The Hero project was developed to connect NGOs and other institutions to people available to help others.
 
 ------------
+
 <h2>🔖 Layout</h2>
 
 💻 Check the Web layout on <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a>.
@@ -28,7 +29,7 @@ The Be The Hero project was developed to connect NGOs and other institutions to 
 
 ------------
 
-<h2>🚀 Tecnologies</h2>
+<h2>🚀 Technologies</h2>
 
 This project was developed with:
 - [NodeJs](https://nodejs.org/en/ "NodeJs")
