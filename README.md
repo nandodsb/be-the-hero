@@ -1,4 +1,4 @@
-<h1 align="center">Be The Hero</h1>
+<h1 align="center">Omnistack 11.0</h1>
 <p align="center">
 <img src="./.github/logo@3x.png"/>
 </p>
@@ -14,11 +14,6 @@
 <p align="center">
 <img src="./.github/bethehero.gif"/>
 </p>
-
-
-
-
-  
 
 <h2>📖 Sobre</h2>
 
